@@ -1,0 +1,21 @@
+Source: tiki9
+Section: web
+Priority: optional
+Maintainer: Jean-François B. <changi67@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+Homepage: http://tiki.org
+
+Package: tiki9
+Architecture: all
+Depends: apache2 | httpd, php5-gd | php5-imagick, php5-mysql | php5-adodb, php5 | php5-cgi | php5-fpm
+Suggests: php5-xcache, php5-ldap, php5-suhosin, php5-curl
+Description: Tiki Wiki CMS Groupware
+ Tiki Wiki CMS Groupware is a full-featured, tightly integrated,
+ open source, multilingual, all-in-one Wiki+CMS+Groupware,
+ written in PHP and actively developed by a very large
+ international community. Major features include articles,
+ forums, newsletters, blogs, a file/image gallery, a wiki,
+ bug & issue tracker (form generator), a calendar, RSS feeds,
+ a category system, tags, an advanced user,
+ group and permission system and more.

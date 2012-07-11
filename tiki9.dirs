@@ -1,0 +1,7 @@
+usr/share/tiki9
+usr/share/tiki9/htdocs
+usr/share/tiki9/htdocs/files
+usr/share/tiki9/htdocs/mods
+var/log/tiki9
+var/lib/tiki9
+var/cache/tiki9
