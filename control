@@ -1,7 +1,7 @@
 Source: tiki9
 Section: web
 Priority: optional
-Maintainer: Jean-François B. <changi67@gmail.com>
+Maintainer: Jean-François BILGER <changi67@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.9.1
 Homepage: http://tiki.org
