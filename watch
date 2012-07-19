@@ -1,4 +1,3 @@
-# Example watch control file for uscan
 # Rename this file to "watch" and then you can run the "uscan" command
 # to check for upstream updates and more.
 # See uscan(1) for format
@@ -6,6 +5,9 @@
 # Compulsory line, this is a version 3 file
 version=3
 
+#http://sourceforge.net/projects/tikiwiki/files/Tiki_9.x_Herbig_Haro/9.0/tiki-9.(.*).tar.gz
+
+http://sf.net/tikiwiki/tiki-([0-9])\.([0-9])\.(?:zip|tgz|tbz2|txz|tar\.gz|tar\.bz2|tar\.xz)
 # Uncomment to examine a Webpage
 # <Webpage URL> <string match>
 #http://www.example.com/downloads.php tiki9-(.*)\.tar\.gz
