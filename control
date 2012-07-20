@@ -8,8 +8,9 @@ Homepage: http://tiki.org
 
 Package: tiki9
 Architecture: all
-Depends: apache2 | httpd, php5-gd | php5-imagick, php5-mysql | php5-adodb, php5 | php5-cgi | php5-fpm
+Depends: ${misc:Depends}, apache2 | httpd, php5-gd | php5-imagick, php5-mysql | php5-adodb, php5 (>= 5.2~) | php5-cgi (>= 5.2~) | php5-fpm (>= 5.2~), dbconfig-common
 Suggests: php5-xcache, php5-ldap, php5-suhosin, php5-curl
+Recommends: mysql-server, mysql-client
 Description: Tiki Wiki CMS Groupware
  Tiki Wiki CMS Groupware is a full-featured, tightly integrated,
  open source, multilingual, all-in-one Wiki+CMS+Groupware,
