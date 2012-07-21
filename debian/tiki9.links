@@ -1,4 +1,5 @@
-/etc/tiki9/			/usr/share/tiki9/htdocs/db
+/etc/tiki9/_htaccess		/usr/share/tiki9/htdocs/.htaccess
+/etc/tiki9/db			/usr/share/tiki9/htdocs/db
 /var/lib/tiki9/dump		/usr/share/tiki9/htdocs/dump
 /var/lib/tiki9/maps		/usr/share/tiki9/htdocs/maps
 /var/cache/tiki9/temp		/usr/share/tiki9/htdocs/temp

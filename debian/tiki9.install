@@ -1,8 +1,9 @@
 *.*			usr/share/tiki9/htdocs/
-_htaccess		usr/share/tiki9/htdocs/
+_htaccess		etc/tiki9
 admin			usr/share/tiki9/htdocs/
 css			usr/share/tiki9/htdocs/
-db/*.*			etc/tiki9
+db/*.*			etc/tiki9/db
+debian/apache2.conf	etc/tiki9	
 doc			usr/share/tiki9/htdocs/
 dump			var/lib/tiki9/
 lib			usr/share/tiki9/htdocs/
@@ -16,7 +17,6 @@ modules/cache		var/cache/tiki9/modules/
 modules/*.*		usr/share/tiki9/htdocs/modules
 tiki_tests/tests	var/lib/tiki9/tiki_tests/
 tiki_tests/*.*		usr/share/tiki9/htdocs/tiki_tests
-README			usr/share/docs/tiki9/
 styles			usr/share/tiki9/htdocs/
 temp			var/cache/tiki9/
 templates		usr/share/tiki9/htdocs/
