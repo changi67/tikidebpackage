@@ -1,9 +1,0 @@
-/etc/tiki9/_htaccess		/usr/share/tiki9/htdocs/.htaccess
-/etc/tiki9/db			/usr/share/tiki9/htdocs/db
-/var/lib/tiki9/dump		/usr/share/tiki9/htdocs/dump
-/var/lib/tiki9/maps		/usr/share/tiki9/htdocs/maps
-/var/cache/tiki9/temp		/usr/share/tiki9/htdocs/temp
-/var/cache/tiki9/templates_c	/usr/share/tiki9/htdocs/templates_c
-/var/cache/tiki9/modules/cache	/usr/share/tiki9/htdocs/modules/cache
-/var/lib/tiki9/tiki_tests/tests	/usr/share/tiki9/htdocs/tiki_tests/tests
-/etc/tiki9/db/tiki.sql		/usr/share/dbconfig-common/data/tiki9/install/mysql
