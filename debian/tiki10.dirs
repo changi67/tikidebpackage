@@ -1,0 +1,9 @@
+etc/tiki10
+etc/tiki10/db
+usr/share/tiki10
+usr/share/tiki10/htdocs
+usr/share/tiki10/htdocs/files
+usr/share/tiki10/htdocs/mods
+var/log/tiki10
+var/lib/tiki10
+var/cache/tiki10

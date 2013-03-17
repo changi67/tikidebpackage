@@ -1,5 +1,5 @@
 #!/bin/sh
-# prerm script for tiki9
+# prerm script for tiki10
 #
 # see: dh_installdeb(1)
 

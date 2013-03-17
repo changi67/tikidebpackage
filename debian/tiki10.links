@@ -1,0 +1,9 @@
+/etc/tiki10/_htaccess		/usr/share/tiki10/htdocs/.htaccess
+/etc/tiki10/db			/usr/share/tiki10/htdocs/db
+/var/lib/tiki10/dump		/usr/share/tiki10/htdocs/dump
+/var/lib/tiki10/maps		/usr/share/tiki10/htdocs/maps
+/var/cache/tiki10/temp		/usr/share/tiki10/htdocs/temp
+/var/cache/tiki10/templates_c	/usr/share/tiki10/htdocs/templates_c
+/var/cache/tiki10/modules/cache	/usr/share/tiki10/htdocs/modules/cache
+/var/lib/tiki10/tiki_tests/tests	/usr/share/tiki10/htdocs/tiki_tests/tests
+/etc/tiki10/db/tiki.sql		/usr/share/dbconfig-common/data/tiki10/install/mysql

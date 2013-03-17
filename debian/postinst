@@ -1,5 +1,5 @@
 #!/bin/sh
-# postinst script for tiki9
+# postinst script for tiki10
 #
 # see: dh_installdeb(1)
 
@@ -25,9 +25,9 @@ if [ -f /usr/share/dbconfig-common/dpkg/config ]; then
         . /usr/share/dbconfig-common/dpkg/config
 	dbc_generate_include_owner="root:www-data"
 	dbc_generate_include_perms="0640"
-	dbc_generate_include=php:/etc/tiki9/db/local.php
+	dbc_generate_include=php:/etc/tiki10/db/local.php
 
-	if ! dbc_go tiki9 $@ ; then
+	if ! dbc_go tiki10 $@ ; then
 	        echo 'Automatic configuration using dbconfig-common failed!'
 	fi
 
@@ -36,7 +36,7 @@ fi
 case "$1" in
     configure)
 	db_version 2.0
-	cd /usr/share/tiki9/htdocs; sh setup.sh -n
+	cd /usr/share/tiki10/htdocs; sh setup.sh -n
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)

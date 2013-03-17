@@ -24,7 +24,7 @@ tiki9 (9.1-1) natty; urgency=low
 
 tiki9 (9.0-1) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
   * Use dbconfig to create the database
 
  -- Jean-François BILGER <changi67@gmail.com>  Sat, 21 Jul 2012 15:01:53 +0200
