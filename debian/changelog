@@ -1,3 +1,9 @@
+tiki10 (10.0-1) natty; urgency=low
+
+  * Upstream release
+
+ -- Jean-François BILGER <changi67@gmail.com>  Sun, 17 Mar 2013 13:23:42 +0100
+
 tiki9 (9.4-1) natty; urgency=low
 
   * Upstream release
