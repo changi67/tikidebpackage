@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sun, 17 Mar 2013 12:51:37 +0100
+Source: tiki9
+Binary: tiki9
+Architecture: source all
+Version: 9.4-1
+Distribution: natty
+Urgency: low
+Maintainer: Jean-François BILGER <changi67@gmail.com>
+Changed-By: Jean-François BILGER <changi67@gmail.com>
+Description: 
+ tiki9      - Tiki Wiki CMS Groupware
+Changes: 
+ tiki9 (9.4-1) natty; urgency=low
+ .
+   * Upstream release
+Checksums-Sha1: 
+ 13719b28a099ee61c42d0776101315218bc8642e 1277 tiki9_9.4-1.dsc
+ f365233e5b8c4d654507d8223ca6791a410cedf5 25629059 tiki9_9.4.orig.tar.gz
+ 09b24a870dcbb967096f939cf8afb44f498baa65 4515 tiki9_9.4-1.debian.tar.gz
+ f54cd67e55897f13522c302d1665b710c828b542 25726614 tiki9_9.4-1_all.deb
+Checksums-Sha256: 
+ 61be7f56c22faf26a5984eca380daf00e2822ca094a7003b72facf0d9061fcab 1277 tiki9_9.4-1.dsc
+ 6e25429b82d74f4270e556b721a978417cc3c4da3c73ea33dd4b2ba74a0c9603 25629059 tiki9_9.4.orig.tar.gz
+ 39e6aa59fc6c91608fc4bafe37f2723105d4fd59023638e6e349c60af4dda181 4515 tiki9_9.4-1.debian.tar.gz
+ e6ae4b01c6edcf2252e30d7b3adbba0c927fccd0d58d93fb99c8989e75d764f6 25726614 tiki9_9.4-1_all.deb
+Files: 
+ e2043e6b38ee41e9fb0bf4da7411c97d 1277 web optional tiki9_9.4-1.dsc
+ 420c861cd33bf89c22d557daf2e979a5 25629059 web optional tiki9_9.4.orig.tar.gz
+ cfeef005a76d6e8c96c6f4f1d13f5fb3 4515 web optional tiki9_9.4-1.debian.tar.gz
+ 7f92a3772811d0de11826774d578663f 25726614 web optional tiki9_9.4-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJRRbEpAAoJEARgESHOpNvLEJsH/2zc4Ux8sHKQPZFlE+iFpO3j
+pYbDkIhw58gFTcog5ZYjyOdzlWwmHmlW5EMSXmVGubsARkkT3uEk+Qa2gclovnOE
+0NrQeyF+vebk9RuMz/3Zr6XoRpFXWGyDW0g4u4gVy3tk7cVwN0sO6mFw4u/izGg3
+MiIXf7d5e+mHWyVplA5MoVLLmlidlEgn1xwQ9lxwtEF5VXQzj3/cBX7zKuvvztJ8
+RrqNlstwblw6rASP2ZzVDIbvUwXFQUtVzdj0kSGmVV017EBq4blhtVsLWTH9hPQ0
+yf4uMts/0TjDlXJLWclEcYKVTbRQko247mLKvgDbN4TJkUvgzDIfYaKuWbf7wxY=
+=aYtY
+-----END PGP SIGNATURE-----
